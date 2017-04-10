@@ -1,7 +1,7 @@
 # shadowsocks-over-websocket
 基于 [shadowsocks](https://zh.wikipedia.org/zh-cn/Shadowsocks) 协议的翻墙工具 , 可部署在 [Heroku](https://www.heroku.com/) 平台上 , 实现免费科学上网
 
-https://www.v2ex.com/t/353762
+https://www.v2ex.com/t/353762 注意电脑客户端的启动方法
 
 ## 如何部署在 Heroku 平台上
 
